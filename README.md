@@ -1,16 +1,28 @@
-# temple_block
+# 木鱼
 
-A new Flutter project.
+> 敲电子木鱼, 享赛博人生.
 
-## Getting Started
+## 描述
 
-This project is a starting point for a Flutter application.
+点击增加点击次数, 点击次数会在页面上显示.
+长按自动敲木鱼
 
-A few resources to get you started if this is your first Flutter project:
+## 使用
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+在确保有flutter环境的情况下, 运行:
+运行 `flutter run` 启动程序
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 安卓
+运行 `flutter build apk` 生成apk文件
+
+### iOS
+运行 `flutter build ios` 生成iOS文件
+
+### Web
+运行 `flutter build web` 生成web文件
+
+### 其他
+更多命令请参考flutter官方文档
+
+## 作者
+佛祖说: Star! 
